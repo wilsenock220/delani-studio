@@ -28,8 +28,6 @@ body{
     padding-top: 65px;
     color: aliceblue;
 }
-#icon{
-    padding: 20px;
-    margin-left: 20px;
-    justify-content: space-around;
+.mouse{
+    margin-bottom: 20px;
 }
