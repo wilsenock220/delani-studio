@@ -1,0 +1,35 @@
+body{
+     @media{
+        max-width: 20px;
+     }
+    font-size: 2vh;
+    text-align: center;
+}
+#para{
+    margin-top: 20px;
+    text-align: center;
+}
+.willy{
+    background-image: url(../img/h_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: aliceblue;
+}
+#imo{
+    margin-top: 100px;
+}
+.two{
+    background-image: url(../img/s_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+    padding-top: 65px;
+    color: aliceblue;
+}
+#icon{
+    padding: 20px;
+    margin-left: 20px;
+    justify-content: space-around;
+}
