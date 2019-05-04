@@ -29,5 +29,12 @@ body{
     color: aliceblue;
 }
 .mouse{
-    margin-bottom: 20px;
+    margin-top: 250px;
+}
+.what{
+    padding: 20px;
+}
+.row{
+    padding: 20px;
+    justify-content: space-evenly;
 }
