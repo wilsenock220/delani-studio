@@ -47,7 +47,7 @@ body{
 }
 .desc, .par, .ra{
     display: none;
-    background-color: rgb(175, 16, 56);
+    /* background-color: rgb(175, 16, 56); */
 }
 .form-group{
     display: flex;
@@ -56,4 +56,11 @@ body{
 .form-group input{
     margin-right: 2%;
     justify-content: space-around;
+}
+.kwera{
+    background-image: url(../img/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
 }
