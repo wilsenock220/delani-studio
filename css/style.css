@@ -39,8 +39,8 @@ body{
 .portfolio div{
     width: 22%;
     margin-bottom: 2%;
-    padding-left: 20px;
-    margin-left: -20px;
+    padding: 20px;
+    
 }
 .portfolio img{
     width: 85%;
@@ -48,4 +48,12 @@ body{
 .desc, .par, .ra{
     display: none;
     background-color: rgb(175, 16, 56);
+}
+.form-group{
+    display: flex;
+    
+}
+.form-group input{
+    margin-right: 2%;
+    justify-content: space-around;
 }
