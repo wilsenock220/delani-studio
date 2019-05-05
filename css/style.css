@@ -55,7 +55,10 @@ body{
 .form-group input{
     margin-right: 2%;
     justify-content: space-around;
-   background-blend-mode: color-dodge;
+   background: transparent;
+}
+.form-group textarea{
+    background: transparent;
 }
 .kwera{
     background-image: url(../img/c_image.jpg);
