@@ -17,6 +17,6 @@ If you experience any issues with the website feel free to contact me via the fo
 phone: 0742248120
 e-mail: wilsenock220@gmail.com
 ### License
-
+this is the link to the license(https://github.com/calvince/Delani-Studio/blob/master/LICENSE)
 Copyright (c) 2019 Wilstan Onditi
   
