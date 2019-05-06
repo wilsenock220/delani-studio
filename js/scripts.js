@@ -11,5 +11,10 @@ $(document).ready(function(){
     $("#lg").click(function(){
         $(".pro").slideToggle();
         $(".ra").slideToggle();
-    })
+    });
+    $("button").click(function(event){
+        event.preventDefault();
+        var display = document.getElementById("you").value;
+        alert("Hello " + display + "Thank you for your message.");
+    });
 });
